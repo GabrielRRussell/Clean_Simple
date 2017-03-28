@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #3A506B;
+}
+
+header {
+	width: 100%;
+	padding-bottom: 10px;
+	padding-top: 20px;
+	background-color: #5BC0BE;
+	text-align: center;
+	font-family: "Baskerville", "Palatino Linotype", "Palatino", "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 2em;
+	align-content: center;
+}
+
+nav {
+	font-size: 0.7em;
+}
+
+#logopic {
+	max-width: 15%;
+	height: auto;
+}
+
+main {
+	width: 80%;
+	background-color: #0B132B;
+	color: #2B7C94;
+	padding-bottom: 50px;
+}
+
+.pic {
+	max-width: 45%;
+	height: auto;
+}
