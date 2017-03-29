@@ -11,7 +11,7 @@ header {
 	padding-top: 20px;
 	background-color: #5BC0BE;
 	text-align: center;
-	font-family: "Baskerville", "Palatino Linotype", "Palatino", "Century Schoolbook L", "Times New Roman", "serif";
+	font-family: "Monospace";
 	font-size: 2em;
 	align-content: center;
 }
@@ -41,4 +41,17 @@ main {
 
 h1 {
 	color: #40798C;
+}
+
+.footer {
+	align-content: center;
+	text-align: center;
+	background-color: #3A506B;
+}
+a, a:visited {
+	color: #40798C;
+}
+
+a:hover {
+	color: black;
 }
