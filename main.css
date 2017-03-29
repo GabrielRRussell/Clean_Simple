@@ -30,9 +30,15 @@ main {
 	background-color: #0B132B;
 	color: #2B7C94;
 	padding-bottom: 50px;
+	text-align: center;
+	margin-left: 10%;
 }
 
 .pic {
 	max-width: 45%;
 	height: auto;
+}
+
+h1 {
+	color: #40798C;
 }
