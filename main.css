@@ -56,3 +56,9 @@ a, a:visited {
 a:hover {
 	color: black;
 }
+p.secret {
+	color: #0B132B;
+}
+p.secret:hover {
+	color: white;
+}
