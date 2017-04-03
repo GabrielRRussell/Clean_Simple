@@ -11,7 +11,7 @@ header {
 	padding-top: 20px;
 	background-color: #5BC0BE;
 	text-align: center;
-	font-family: "Monospace";
+	font-family: "Baskerville", "Palatino Linotype", "Palatino", "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 2em;
 	align-content: center;
 }
@@ -30,35 +30,9 @@ main {
 	background-color: #0B132B;
 	color: #2B7C94;
 	padding-bottom: 50px;
-	text-align: center;
-	margin-left: 10%;
-	font-size: 1.5em;
 }
 
 .pic {
-	max-width: 55%;
+	max-width: 45%;
 	height: auto;
-}
-
-h1 {
-	color: #40798C;
-}
-
-.footer {
-	align-content: center;
-	text-align: center;
-	background-color: #3A506B;
-}
-a, a:visited {
-	color: #40798C;
-}
-
-a:hover {
-	color: black;
-}
-p.secret {
-	color: #0B132B;
-}
-p.secret:hover {
-	color: white;
 }
