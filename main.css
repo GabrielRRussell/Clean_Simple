@@ -17,7 +17,7 @@ header {
 }
 
 nav {
-	font-size: 0.7em;
+	font-size: 0.6em;
 }
 
 #logopic {
@@ -34,17 +34,20 @@ main {
 	background-color: #0B132B;
 	color: #78c8e2;
 	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
 	margin: 10px;
 	margin-left: 20%;
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 
 p {
 	text-align: Justify;
+	font-family: Monospace;
 }
 
 .pic {
-	max-width: 55%;
+	max-width: 60%;
 	height: auto;
 }
 
@@ -68,7 +71,7 @@ p.secret {
 	color: #0B132B;
 }
 p.secret:hover {
-	color: white;
+	color: #78c8e2;
 }
 
 h3 {
