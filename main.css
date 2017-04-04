@@ -9,7 +9,7 @@ header {
 	width: 100%;
 	padding-bottom: 10px;
 	padding-top: 20px;
-	background-color: #5BC0BE;
+	background-color: #1675AA;
 	text-align: center;
 	font-family: "Monospace";
 	font-size: 2em;
@@ -55,25 +55,24 @@ h1 {
 	color: #78c8e2;
 }
 
+h3 {
+	text-align: Center;
+}
+
 .footer {
 	align-content: center;
 	text-align: center;
 	background-color: #3A506B;
 }
-a, a:visited {
-	color: black;
-}
 
-a:hover {
-	color: black;
-}
 p.secret {
 	color: #0B132B;
 }
+
 p.secret:hover {
 	color: #78c8e2;
 }
 
-h3 {
-	text-align: Center;
+a {
+	color: cadetblue;
 }
