@@ -30,15 +30,15 @@ main {
 	border-style: groove;
 	border-color: #28BCC9;
 	border-width: 8px;
-	width: 60%;
+	width: 70%;
 	background-color: #0B132B;
 	color: #78c8e2;
 	padding-bottom: 10px;
 	padding-left: 10px;
 	padding-right: 10px;
 	margin: 40px;
-	margin-left: 20%;
-	font-size: 1.3em;
+	margin-left: 15%;
+	font-size: 1.25em;
 }
 
 p {
