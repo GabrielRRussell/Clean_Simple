@@ -7,7 +7,7 @@ body {
 
 header {
 	width: 100%;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	padding-top: 20px;
 	background-color: #1675AA;
 	text-align: center;
@@ -20,9 +20,25 @@ nav {
 	font-size: 0.6em;
 }
 
+.navitem {
+	background-color: white;
+	border: 2px solid #73AD21;
+	border-radius: 15px;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 5px;
+}
+
+.navitem:hover {
+	background-color: black;
+}
+
 #logopic {
 	max-width: 25%;
 	height: auto;
+	padding-bottom: 20px;
 }
 
 main {
@@ -30,6 +46,7 @@ main {
 	border-style: groove;
 	border-color: #28BCC9;
 	border-width: 8px;
+	border-radius: 15px;
 	width: 70%;
 	background-color: #0B132B;
 	color: #78c8e2;
@@ -75,4 +92,10 @@ p.secret:hover {
 
 a {
 	color: cadetblue;
+    white-space: pre-wrap;    
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap;    
+    white-space: -o-pre-wrap;     
+    word-wrap: break-word; 
 }
+
