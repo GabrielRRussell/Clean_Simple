@@ -70,10 +70,31 @@ p {
 
 h1 {
 	color: #78c8e2;
+	-webkit-transition-property: color;
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0.1s
+	transition-property: color;
+	transition-duration: 1s;
+	transition-delay: 0.1s;
 }
+h1:hover {
+	color: #2761f4;
+}
+
 
 h3 {
 	text-align: Center;
+	color: #78c8e2;
+	-webkit-transition-property: color;
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0.1s
+	transition-property: color;
+	transition-duration: 1s;
+	transition-delay: 0.1s;
+}
+
+h3:hover {
+	color: #52c962;
 }
 
 .footer {
@@ -83,13 +104,32 @@ h3 {
 }
 
 p.secret {
-	color: #0B132B;
+	color: #0B132B;	
+	-webkit-transition-property: color;
+	-webkit-transition-duration: 1.5s;
+	-webkit-transition-delay: 0.2s
+	transition-property: color;
+	transition-duration: 1.5s;
+	transition-delay: 0.2s;
+	
 }
 
 p.secret:hover {
 	color: #78c8e2;
 }
 
+.key {
+	color: #78c8e2;
+	-webkit-transition-property: color;
+	-webkit-transition-duration: 0.5s;
+	-webkit-transition-delay: 0.1s
+	transition-property: color;
+	transition-duration: 0.5s;
+	transition-delay: 0.1s;
+}
+.key:hover {
+	color: white;
+}
 a {
 	color: cadetblue;
     white-space: pre-wrap;    
