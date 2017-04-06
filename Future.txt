@@ -1,7 +1,0 @@
-These are the plans I have for the website in the future.
-
-Mini-Blog: Weekly Mini-Blog on whatever topic I feel like at the last minute
-About Me: A page about me. I guess I could combine this with the Contact page.
-Cross-Platform Compatibillity: I want support on as many browsers as possible, so I'll be testing on various platforms.
-Revamped Footer: Right now, the footer is kind of ugly. I want to revamp it right now.
-Better Load Times: I'm going to focus on making the website as small as humanly possible after I finish it. Optimization comes last!
