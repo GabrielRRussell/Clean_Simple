@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	background-color: #3A506B;
+	background-color: #3A506B; 
 }
 
 header {
@@ -135,7 +135,8 @@ p.secret:hover {
 }
 .key:hover {
 	color: white;
-	font-size: 2em;
+	font-size: 1.5em;
+	cursor: default;
 }
 a {
 	color: cadetblue;
