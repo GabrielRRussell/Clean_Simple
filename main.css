@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
 body {
 	background-color: #3A506B; 
 }
@@ -29,8 +30,6 @@ nav {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	margin: 5px;
-	-webkit-transition-duration: 0.2s;
-    transition-duration: 0.4s;
 }
 
 .navitem:hover {
