@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
+.cssrotate {
+	    animation:spin 16ms linear infinite;
+}
 
 body {
 	background-color: #3A506B; 
@@ -33,6 +37,7 @@ nav {
 	transition-property: "background-color";
 	transition-duration: 0.2s;
 	transition-delay: 0.05s;
+	height: 5%;
 }
 
 .navitem:hover {
